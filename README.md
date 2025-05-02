@@ -1,3 +1,5 @@
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniovna/)
+
 # 💻 Meus Projetos Pessoais de Desenvolvimento Web
 
 Este repositório reúne alguns projetos pessoais que desenvolvi no início da minha carreira para praticar, testar ideias e construir soluções úteis ou interessantes. Todos os projetos estão organizados em subpastas dentro do repositório. Não pude adicionar códigos feitos profissionalmente para as empresas em que trabalhei anteriormente.
